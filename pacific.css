@@ -22,7 +22,7 @@ nav { font-weight: bold;
     width: 160px;
     padding: 0;
 }
-nav ul: {list-style-type: none;
+nav ul: { list-style-type: none;
           padding-left: 1em;}
 nav a:link {color: #FFF}
 nav a:visited {color: #C2E0F0}
